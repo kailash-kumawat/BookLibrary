@@ -64,7 +64,7 @@ public class main {
 
         while (true) {
             System.out.println("\nEnter 1 to add a book");
-            System.out.println("Enter 2 to Publish a book");
+            System.out.println("Enter 2 to Delete a book");
             System.out.println("Enter 3 to update a book name");
             System.out.println("Enter 4 to update a author name");
             System.out.println("Enter 5 to see collection of books");
